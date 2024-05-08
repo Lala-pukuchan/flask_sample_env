@@ -1,0 +1,4 @@
+flask==2.0.1
+Werkzeug==2.2.2
+pyyaml==5.4.1
+pysen[lint]==0.11.0
